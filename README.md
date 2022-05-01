@@ -1,4 +1,4 @@
-Hi 👋 My name is Enes Malik SAYAN
+Hi 👋 My name is Enes
 =================================
 
 Full-Stack developer focused on .Net Technologies
