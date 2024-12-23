@@ -8,7 +8,7 @@ I've been coding since 2018, still trying to improve my development skills. With
 
 * 🌍  I'm based in Turkey, Istanbul 
 * ✉️  You can contact me at [enesmaliksayan@gmail.com](mailto:enesmaliksayan@gmail.com)
-* 🚀  I'm currently working on [HepsiPay, @HepsiBurada](http://www.hepsiburada.com/)
+* 🚀  I'm currently working on [Architecht, @KuveytTurk](https://www.architecht.com/)
 * 🧠  I'm learning architectural design of microservices
 
 ### Skills
